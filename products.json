@@ -1,0 +1,49 @@
+[{
+  "_id": {
+    "$oid": "632bd1e166064a729b72519c"
+  },
+  "name": "Producto 1",
+  "price": "6565",
+  "thumbnail": "https://img.freepik.com/vector-gratis/envase-cosmetico-realista_1268-1266.jpg?w=740&t=st=1664080871~exp=1664081471~hmac=ae895eca3440b913bb1b9c8ff7c1f72a778aab2f69388a6966fee5f8a38b8bcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632bd21966064a729b72519e"
+  },
+  "name": "Producto 2",
+  "price": "32",
+  "thumbnail": "https://img.freepik.com/vector-gratis/envase-cosmetico-realista_1268-1266.jpg?w=740&t=st=1664080871~exp=1664081471~hmac=ae895eca3440b913bb1b9c8ff7c1f72a778aab2f69388a6966fee5f8a38b8bcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632bd2742f4e2638bb12b2eb"
+  },
+  "name": "Producto 3",
+  "price": "45",
+  "thumbnail": "https://img.freepik.com/vector-gratis/envase-cosmetico-realista_1268-1266.jpg?w=740&t=st=1664080871~exp=1664081471~hmac=ae895eca3440b913bb1b9c8ff7c1f72a778aab2f69388a6966fee5f8a38b8bcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632bd2922f4e2638bb12b2ed"
+  },
+  "name": "Producto 4",
+  "price": "456",
+  "thumbnail": "https://img.freepik.com/vector-gratis/envase-cosmetico-realista_1268-1266.jpg?w=740&t=st=1664080871~exp=1664081471~hmac=ae895eca3440b913bb1b9c8ff7c1f72a778aab2f69388a6966fee5f8a38b8bcd",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632bd7548737649195a3e171"
+  },
+  "name": "Producto 5",
+  "price": "765",
+  "thumbnail": "https://img.freepik.com/foto-gratis/composicion-flat-lay-productos-limpieza-copyspace_23-2148133453.jpg?w=2000",
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "632c85328737649195a3e174"
+  },
+  "name": "Producto 6",
+  "price": "324",
+  "thumbnail": "https://img.freepik.com/vector-gratis/envase-cosmetico-realista_1268-1266.jpg?w=740&t=st=1664080871~exp=1664081471~hmac=ae895eca3440b913bb1b9c8ff7c1f72a778aab2f69388a6966fee5f8a38b8bcd",
+  "__v": 0
+}]

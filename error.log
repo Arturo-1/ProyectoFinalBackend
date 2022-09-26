@@ -1,0 +1,7 @@
+{"code":8000,"codeName":"AtlasError","level":"error","message":"server.js error en conexión de base de datos bad auth : Authentication failed.","ok":0,"stack":"MongoServerError: bad auth : Authentication failed.\n    at Connection.onMessage (C:\\Users\\Arturo\\Desktop\\Entrega18\\node_modules\\mongodb\\lib\\cmap\\connection.js:207:30)\n    at MessageStream.<anonymous> (C:\\Users\\Arturo\\Desktop\\Entrega18\\node_modules\\mongodb\\lib\\cmap\\connection.js:60:60)\n    at MessageStream.emit (node:events:513:28)\n    at processIncomingData (C:\\Users\\Arturo\\Desktop\\Entrega18\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:132:20)\n    at MessageStream._write (C:\\Users\\Arturo\\Desktop\\Entrega18\\node_modules\\mongodb\\lib\\cmap\\message_stream.js:33:9)\n    at writeOrBuffer (node:internal/streams/writable:391:12)\n    at _write (node:internal/streams/writable:332:10)\n    at MessageStream.Writable.write (node:internal/streams/writable:336:10)\n    at TLSSocket.ondata (node:internal/streams/readable:754:22)\n    at TLSSocket.emit (node:events:513:28)"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
+{"level":"error","message":"Ruta GET/failsignup error en signup"}
