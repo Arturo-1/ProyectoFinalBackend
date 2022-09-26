@@ -7,3 +7,5 @@
 {"level":"error","message":"Ruta GET/faillogin error en login"}
 {"level":"error","message":"Ruta GET/faillogin error en login"}
 {"level":"error","message":"Ruta GET/failsignup error en signup"}
+{"level":"warn","message":"Ruta GET/favicon.ico no existe"}
+{"level":"error","message":"Ruta GET/faillogin error en login"}
